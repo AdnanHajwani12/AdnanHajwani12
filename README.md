@@ -1,4 +1,13 @@
+# 💫 Hi 👋, I'm Adnan Hajwani
+**A passionate Web Devloper | Data Analytics**
 
+Email Me 👉 ✉️ **hadnan.work@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🤔 **I’m looking for help with:** Opporuntiy's
+- 📫 **How to reach me:** hadnan.work@gmail.com
+- 😄 **Pronouns:** Addy
+- ⚡ **Fun fact:** Gamer
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adnan Hajwani) 
 
@@ -8,6 +17,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=AdnanHajwani12&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AdnanHajwani12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanHajwani12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdnanHajwani12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
